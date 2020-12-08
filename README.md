@@ -7,9 +7,9 @@ Global 3D potential energy surface (PES) for Ar<sub>2</sub>H<sup>+</sup> constru
 
 **Compile the PES**
 
-A test program file (pes_test.f90) is given and it can be compiled as
+A test program file (test.f90) is given and it can be compiled as
 
-`gfortran -O3 Ar2H+.f90 pes_test.f90`
+`gfortran -O3 Ar2H+.f90 test.f90`
 
 **Running the executable**
 
