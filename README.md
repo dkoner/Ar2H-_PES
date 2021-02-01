@@ -17,4 +17,4 @@ Before running the executable make sure that the coeff.dat file is present in th
 
 **Cite as**
 
-Debasish Koner
+D. Koner J. Chem. Phys. 154, 054303 (2021)
